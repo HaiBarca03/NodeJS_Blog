@@ -1,0 +1,37 @@
+.card-course-item {
+  margin-top: 16px; }
+
+img.user-avatar {
+  border-radius: 50%;
+  width: 30px;
+  margin-right: 4px; }
+
+img.user-logo {
+  width: 50px; }
+
+.navbar-brand {
+  font-weight: 700;
+  color: blue !important; }
+
+.text-2 {
+  color: red !important;
+  margin-left: -6px; }
+
+.header-store {
+  display: flex;
+  justify-content: space-between; }
+
+.selectAllCheckBoxOption {
+  margin: 0 8px;
+  width: 150px; }
+
+body {
+  background: linear-gradient(247deg, #154284, #181733);
+  background-attachment: fixed; }
+
+a, tr, h3, label, .form-check-label {
+  color: #fff; }
+
+a:hover {
+  color: #007bff;
+  text-decoration: none; }
